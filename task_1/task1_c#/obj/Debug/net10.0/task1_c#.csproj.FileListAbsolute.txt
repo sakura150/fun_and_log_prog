@@ -1,0 +1,14 @@
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\bin\Debug\net10.0\task1_c#.exe
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\bin\Debug\net10.0\task1_c#.deps.json
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\bin\Debug\net10.0\task1_c#.runtimeconfig.json
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\bin\Debug\net10.0\task1_c#.dll
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\bin\Debug\net10.0\task1_c#.pdb
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\obj\Debug\net10.0\task1_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\obj\Debug\net10.0\task1_c#.AssemblyInfoInputs.cache
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\obj\Debug\net10.0\task1_c#.AssemblyInfo.cs
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\obj\Debug\net10.0\task1_c#.csproj.CoreCompileInputs.cache
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\obj\Debug\net10.0\task1_c#.dll
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\obj\Debug\net10.0\refint\task1_c#.dll
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\obj\Debug\net10.0\task1_c#.pdb
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\obj\Debug\net10.0\task1_c#.genruntimeconfig.cache
+C:\Users\sakura666\fun_and_log_prog\task_1\task1_c#\obj\Debug\net10.0\ref\task1_c#.dll
