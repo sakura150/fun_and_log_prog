@@ -1,0 +1,15 @@
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\obj\Debug\net10.0\task_2_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\obj\Debug\net10.0\task_2_c#.AssemblyInfoInputs.cache
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\obj\Debug\net10.0\task_2_c#.AssemblyInfo.cs
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\obj\Debug\net10.0\task_2_c#.csproj.CoreCompileInputs.cache
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\obj\Debug\net10.0\task_2_c#.sourcelink.json
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\bin\Debug\net10.0\task_2_c#.exe
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\bin\Debug\net10.0\task_2_c#.deps.json
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\bin\Debug\net10.0\task_2_c#.runtimeconfig.json
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\bin\Debug\net10.0\task_2_c#.dll
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\bin\Debug\net10.0\task_2_c#.pdb
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\obj\Debug\net10.0\task_2_c#.dll
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\obj\Debug\net10.0\refint\task_2_c#.dll
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\obj\Debug\net10.0\task_2_c#.pdb
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\obj\Debug\net10.0\task_2_c#.genruntimeconfig.cache
+C:\Users\sakura666\fun_and_log_prog\task_2\task_2_c#\obj\Debug\net10.0\ref\task_2_c#.dll
