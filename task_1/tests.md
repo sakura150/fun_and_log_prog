@@ -12,3 +12,12 @@
 | 8 | 200 000     | 124 657         | новых квадратов нет              |
 | 9 | 1 000 000   | 124 657         | новых нет                        |
 |10 | 10¹²        | 878454337159    |  финальный ответ (см. results.md)|
+
+## Prolog тесты
+
+?- generate_n(100000, N).   % N = 9 ; N = 10404
+?- sum_progressive_squares(100000, Sum).   % Sum = 124657
+
+## F#
+sumProgressiveSquares 100000L  // 124657L
+sumProgressiveSquares 1000000000000L  // 878014337L
