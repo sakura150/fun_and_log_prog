@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hq3a0P8gR7c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sakura666\\fun_and_log_prog\\task_1\\task_1_F#\\task_1_F#.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sakura666\\.nuget\\packages\\fsharp.core\\10.1.201\\fsharp.core.10.1.201.nupkg.sha512"
+  ],
+  "logs": []
+}
